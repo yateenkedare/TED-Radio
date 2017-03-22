@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TED Radio Hour Podcast</string>
+    <string name="settings">Settings</string>
+    <string name="play_pause_button">play/pause button</string>
+</resources>
